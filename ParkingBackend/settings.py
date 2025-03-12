@@ -60,6 +60,8 @@ CSRF_TRUSTED_ORIGINS = [
    "https://backend-parking-p4dd.onrender.com",
    "https://server-smart-parking.vercel.app/",
    "http://127.0.0.1:8000",
+   "https://front-parking.vercel.app",
+    "http://localhost:5173",
 ]
 
 
